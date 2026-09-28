@@ -1,0 +1,7 @@
+target/
+**/target/
+data/
+**/data/
+.idea/
+.vscode/
+settings.xml
